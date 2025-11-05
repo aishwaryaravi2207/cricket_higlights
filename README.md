@@ -174,10 +174,9 @@ Ensure 600–900 words, better transitions, and enhanced readability.
 
 ## 👥 Contributors
 
-| Name | Role |
-|------|------|
-| *[Your Name]* | Research, Implementation, Prompt Engineering, Report Writing |
-| Team Members | Model Evaluation, Data Pipeline Setup |
+| Name | 
+|------|
+| Team Members | Aishwarya Ravichandran, Dhanush Aditya Balaji and Hardik Bishnoi|
 
 ---
 
