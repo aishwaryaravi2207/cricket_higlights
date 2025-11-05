@@ -174,8 +174,6 @@ Ensure 600–900 words, better transitions, and enhanced readability.
 
 ## 👥 Contributors
 
-| Name | 
-|------|
 | Team Members | Aishwarya Ravichandran, Dhanush Aditya Balaji and Hardik Bishnoi|
 
 ---
