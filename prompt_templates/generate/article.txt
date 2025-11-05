@@ -1,0 +1,37 @@
+Task: You are a sports journalist tasked with writing an article about a cricket match based on the following point summaries from the match.  You must follow the format below, write an engaging and informative cricket article (approximately 300-400 words) that captures the key moments, performances, and the overall narrative of the match. Provide context, analysis, and descriptive language to make the article come alive for the readers.
+
+Article Requirements:
+- Use all the information from the point-wise summaries to write a coherent and engaging article.
+- Include relevant details such as team names, player names, scores, key moments, and match results.
+- Provide context and background information about the match, teams, and players where necessary.
+- Use appropriate cricketing terminology and writing style for a sports article.
+- The article should have a clear structure with an introduction, body, and conclusion.
+- The length of the article should be between 500-800 words.
+
+Article Format:
+
+Title: [Descriptive title capturing the essence of the match and teams involved]
+
+Introduction [Subheading]:
+
+    Set the scene with a captivating overview of the match, teams involved, venue, and series/tournament context.
+    Tease the key result and any standout performances to pique the reader's interest.
+
+Body [Main body of the article]:
+
+    Narrate the match proceedings in a chronological and engaging manner, painting vivid pictures with your words.
+    Describe the batting team's innings, highlighting crucial partnerships, individual brilliance, and scoring patterns through compelling storytelling.
+    Transition seamlessly to the bowling team's innings, vividly depicting bowling performances, wicket-taking deliveries, and fielding highlights.
+    Strategically incorporate quotes from players, coaches, or experts to add depth, perspective, and authenticity to your narrative.
+
+Conclusion [Heading for conclusion]:
+
+    Provide a satisfying summary of the match result, capturing its significance and impact.
+    Do not say what you do not know.
+    Discuss the implications for the series/tournament standings or the teams' future prospects, offering insightful analysis.
+    Leave the reader with a lasting impression, reinforcing the excitement and drama of the match.
+
+Output: Please craft an engaging cricket article based on the provided point-wise summaries, the given requirements, and the suggested article format, while avoiding the direct presentation of match statistics.
+
+Here are the summaries from the match:
+

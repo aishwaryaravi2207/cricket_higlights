@@ -1,0 +1,23 @@
+paths:
+  base: '/Users/aishwaryaravichandran/Documents/nlp/final_project/cricket_news/'
+  data: 'crickbuzz_api/commentary/cricbuzz_dataset/{match_id}/'
+  match_id: '{match_id}'
+  commentary: '_commentary.csv'
+  scorecard: '_scorecard.csv'
+  highlights: '_highlights.csv'
+  chunks: 'chunks/'
+  extract: 'extracted/'
+  revise: 'revised/'
+  final_dir: 'article/'
+
+models:
+  extract: 'dolphin-phi'
+  revise: 'dolphin-phi'
+  generate: 'gemma:2b'
+
+save_options:
+  save_chunks: True
+  save_extract: True
+  save_revise: True
+  save_generate: True
+  save_refine: True

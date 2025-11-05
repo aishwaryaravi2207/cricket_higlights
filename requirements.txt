@@ -1,0 +1,6 @@
+loguru
+pandas
+pyyaml
+argparse
+transformers
+ollama
